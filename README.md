@@ -1,4 +1,4 @@
-@@ -1,16 +1,17 @@
+@@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Alexis Orcel</h1>
 <h3 align="center">I'm a passionate student at LaPlateforme_ !</h3>
