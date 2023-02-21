@@ -1,5 +1,5 @@
 @@ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="280px"/>
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Alexis Orcel</h1>
 <h3 align="center">I'm a passionate student at LaPlateforme_ !</h3>
 
