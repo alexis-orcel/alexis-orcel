@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me **alexis.orcel@laplateforme.io**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
