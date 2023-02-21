@@ -56,4 +56,6 @@ Here are some ideas to get you started:
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
 
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 
