@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="alexis-orcel" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=alexis-orcel&show_icons=true&theme=dracula" alt="alexis-orcel" /></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C503%20hrs%2016%20mins-blue)
