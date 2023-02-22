@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 ## MY SKILLS
-[![](https://skillicons.dev/icons?i=py,php,ps,linux,js,html,github,bootstrap,bash,ableton,figma&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,ps,linux,js,html,github,bootstrap,bash,ableton,figma&theme=light)](https://skillicons.dev)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexis-orcel&" alt="alexis-orcel" /></p>
